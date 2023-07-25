@@ -1,0 +1,11 @@
+# North_Wind_Dashboard
+I hope this message finds you all in good health and high spirits.
+I am thrilled to announce the completion of my recent project, the North Wind Dashboard, and I couldn't wait to share it with you all.
+The North Wind Dashboard is a comprehensive visualization of revenue data from various countries and cities. Its main objective is to identify the top 5 employees and products based on order quantity, as well as the bottom 5 employees and products. By exploring these factors, the dashboard aims to provide valuable insights into the performance and trends within the organization.
+To accomplish this, I utilized the powerful data analysis tool, Power BI. This enabled me to gather, analyze, and present the data in an intuitive and visually appealing manner. Power BI's robust capabilities allowed me to create interactive visualizations that offer deep insights at a glance.
+I sourced the dataset from the Northwind sample database, available at this dataset : https://services.odata.org/Northwind/Northwind.svc/.
+This rich dataset provided a wealth of information to work with, ensuring the dashboard's accuracy and relevance.
+If you're interested in exploring the North Wind Dashboard, you can find via this link : https://github.com/ajays191/North_Wind_Dashboard
+I would greatly appreciate it if you could spare a few moments to take a look and provide your valuable feedback or suggestions. Your input will help me refine and enhance the dashboard's usability and effectiveness.
+Thank you in advance for your time and support. Together, let's harness the power of data to drive informed decision-making and achieve remarkable results!
+
